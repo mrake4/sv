@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "sv/api/admins.ts": {
+      "runtime": "node"
+    }
+  }
+}
